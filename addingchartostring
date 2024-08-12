@@ -1,0 +1,9 @@
+import java.util.Scanner;
+public class Main{
+    public static void main(String[] args){
+        String str="nandhu";
+        char c='s';
+        String str2=str+c;
+        System.out.println(str2);
+    }
+}
